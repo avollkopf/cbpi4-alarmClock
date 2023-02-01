@@ -6,4 +6,4 @@ This step-plugin waits until the calculated time is reached then sets the target
 
 The Datetime format has to be: DD.MM.YY-HH:MM
 
-Wrong formats will raise a Notification with en error.
+Wrong formats will raise a Notification with an error.
